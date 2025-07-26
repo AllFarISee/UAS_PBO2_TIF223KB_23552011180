@@ -47,7 +47,7 @@ Membangun aplikasi kasir apotek yang:
 - transaksi: Catatan pembelian pasien
 - Relasi menggunakan foreign key untuk menjaga integritas data, contohnya:
 resep.dokter_id → tenaga_medis.id
-detail_resep.obat_id →  obatid
+detail_resep.obat_id →  obat.id
 
 ##### 6.	Proses Bisnis Petugas memilih transaksi dengan resep atau langsung
 Jika dengan resep:
@@ -130,6 +130,6 @@ User tidak perlu tahu detail cara menghitung total atau proses verifikasi, cukup
 
 
 Demo Proyek
-•	Github:
-•	Video: 
+•	Github: https://github.com/AllFarISee/UAS_PBO2_TIF223KB_23552011180.git
+•	Video: https://drive.google.com/drive/folders/1iTrjulR75YJb8SDD8P5zTVDSEbW3hi7e?usp=sharing
 
