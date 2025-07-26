@@ -48,3 +48,4 @@ CREATE TABLE transaksi (
     tanggal DATE,
     FOREIGN KEY (pasien_id) REFERENCES pasien(id)
 );
+

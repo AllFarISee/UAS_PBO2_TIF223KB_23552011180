@@ -2,7 +2,6 @@ import java.sql.*;
 import java.util.*;
 
 public class DetailResepDAO {
-
     // Mendapatkan detail resep berdasarkan ID resep
     public static List<DetailResep> getDetailResepByResepId(Connection connection, int resepId) {
         List<DetailResep> detailResepList = new ArrayList<>();
