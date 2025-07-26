@@ -1,6 +1,6 @@
 # UAS Pemrograman Berorientasi Objek 2
 - Mata Kuliah: Pemrograman Berorientasi Obyek 2
-- Dosen Pengampu: [GitHub](https://github.com/Muhammad-Ikhwan-Fathulloh)
+- Dosen Pengampu: [Muhammad Ikhwan Fathulloh](https://github.com/Muhammad-Ikhwan-Fathulloh)
 
 ### Profil
 - Nama: {Alfarisi Azhar}
