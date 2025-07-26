@@ -130,6 +130,8 @@ User tidak perlu tahu detail cara menghitung total atau proses verifikasi, cukup
 
 
 Demo Proyek
+
 •	Github: https://github.com/AllFarISee/UAS_PBO2_TIF223KB_23552011180.git
+
 •	Video: https://drive.google.com/drive/folders/1iTrjulR75YJb8SDD8P5zTVDSEbW3hi7e?usp=sharing
 
